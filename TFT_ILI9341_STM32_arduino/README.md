@@ -5,7 +5,7 @@
 
  - mygraphicstest.ino
  - mytouchscreendemo.ino
- - two_point_eight_LCD_STM32
+ - two_point_eight_LCD_STM32.ino
  
 ### Demo (YouTube)
 
