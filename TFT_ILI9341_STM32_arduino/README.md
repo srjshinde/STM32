@@ -1,6 +1,3 @@
-##Better library is available here:
-https://github.com/stevstrong/Adafruit_TFTLCD_8bit_STM32
-
 # Adafruit_ILI9341_8bit_STM for STM32duino
 8 bit parallel library for ILI9341 and STM32F103C8T6
 
@@ -41,3 +38,6 @@ If you want to change data bus pins, you will have to change the functions calle
 #### Usage		
  - Place the Adafruit_ILI9341_8bit_STM library folder your C:\Program Files (x86)\Arduino\hardware\Arduino_STM32\STM32F1\libraries folder. Restart the IDE	
  - Also requires the Adafruit_GFX library for Arduino.
+ 
+##Another good library is available here:
+https://github.com/stevstrong/Adafruit_TFTLCD_8bit_STM32
